@@ -1,0 +1,16 @@
+.weather-icon {
+  display: inline-block;
+  line-height: 1;
+}
+
+.weather-icon--small {
+  font-size: 1.5rem;
+}
+
+.weather-icon--medium {
+  font-size: 2.5rem;
+}
+
+.weather-icon--large {
+  font-size: 5rem;
+}
